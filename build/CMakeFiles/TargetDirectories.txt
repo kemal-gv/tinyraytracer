@@ -1,0 +1,3 @@
+/home/guven/Bureau/RDV/tinyraytracer/build/CMakeFiles/rebuild_cache.dir
+/home/guven/Bureau/RDV/tinyraytracer/build/CMakeFiles/edit_cache.dir
+/home/guven/Bureau/RDV/tinyraytracer/build/CMakeFiles/tinyraytracer.dir
